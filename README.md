@@ -2,6 +2,12 @@
 
 A complete demonstration of integrating FastAPI with Google's Gemini AI through the Model Context Protocol (MCP) using FastMCP.
 
+## 🎥 Demo Video
+
+Watch the complete demonstration: **[Fast MCP.mp4](Fast%20MCP.mp4)**
+
+*This video shows the full integration in action, including FastAPI startup, MCP tools testing, and Gemini AI interactions.*
+
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
